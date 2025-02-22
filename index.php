@@ -33,8 +33,8 @@ $results = $a->getData($query);
             <thead class="thead-dark">
                 <tr>
                     <th scope="col">No</th>
-                    <th scope="col">Nama</th>
-                    <th scope="col">Alamat</th>
+                    <th scope="col">Nama Lengkap</th>
+                    <th scope="col">Alamat Lengkap</th>
                     <th scope="col">Tanggal Lahir</th>
                     <th scope="col">Jenis Kelamin</th>
                     <th scope="col">Aksi</th>

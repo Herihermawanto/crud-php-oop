@@ -14,7 +14,7 @@
     <div class="container">
         <form method="post" action="proses-tambah.php">
             <div class="form-group">
-                <label for="">Nama Lengkap</label>
+                <label for="">Nama</label>
                 <input type="text" name="nama" class="form-control" placeholder="Masukan Nama" required>
             </div>
             <div class="form-group">
